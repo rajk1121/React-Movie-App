@@ -2,6 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rajk1121.github.io/React-Movie-App/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",
